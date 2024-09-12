@@ -1,3 +1,3 @@
 # Miapr_Lab1
 K- means and Maximin
-![My Image](image.png)
+<img src="images/my-image.png" alt="Описание изображения" width="150" height="150"/>
